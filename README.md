@@ -1,6 +1,6 @@
 # Projects
 
-This will contain various projects learned in courses and my own interests. 
+This will contain various projects learned in courses and my own interests. Each branch of a project will be the updated version, and I will keep the main branch for minimal to incorporate seperation. 
 
 ## Table of Contents
 
@@ -14,7 +14,8 @@ This will contain various projects learned in courses and my own interests.
 - [Contact](#contact)
 
 ## About
-
+The 'energy-projects' branch is built around my main interest, more deeply understanding the energy environment.
+1. First project is regarding database management from energy perspective. 
 
 ## Demo
 
@@ -22,11 +23,8 @@ This will contain various projects learned in courses and my own interests.
 
 ## Features
 
-
-
-- Feature 1
-- Feature 2
-- Feature 3
+- energy-projects consists of introductory energy analysis.
 
 ## Installation
+Refer to the installation file to see libraries utilized.
 
