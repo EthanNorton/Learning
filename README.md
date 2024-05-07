@@ -1,6 +1,6 @@
 # Projects
 
-This will contain various projects learned in courses and my own interests. As this is the first branch in the learning sector, it will start as more of a foundation for energy, and the other branches may be moved here later. 
+This will contain various projects learned in courses and my own interests. 
 
 ## Table of Contents
 
@@ -8,46 +8,28 @@ This will contain various projects learned in courses and my own interests. As t
 - [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
-- [Contributing](#contributing)
 - [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 - [Contact](#contact)
 
 ## About
 
-This will include: sources with an annotated bibliography, my own thoughts, feature engineering, my ideal dataset then if I can find an accessible one, and then bring in various branches off of this one, if it doesn't conflict with main. 
+Optimization will likely be intertwined between project interests, but this branch will be my interpretation of technical topics.
+
+Another area could be spacial optimization and visualizing interconnectedness between grid components. 
 
 ## Demo
 
 
 
-## Features (in this order of operations):
+## Features
 
-Guideline: https://www.simplilearn.com/tutorials/machine-learning-tutorial/machine-learning-steps
 
-- Literature review, domain knowledge context **commonly omitted, why get data and choose a project if some endgoal is not in mind, this can be a guideline for the rest of the project** 
-- Preprocess a dataset (clean, visualize, data quality)
-- Feature Engineering
-- Building a model
-  - Iterating
-  - Robustness checks
-- Optimization, Parameter Tuning, Model Evaluation
-  - Propogation
-  - Regularization
-- Implementations, Policy Analysis
 
-- Applying an agent to help maintain, optimize, and other ways to expand once better understanding how those work. 
-  - Demand Charge Reductions, for example, DERs
-  - Net Zero Management - control energy storage
-## Contributing 
-![image](https://github.com/EthanNorton/Learning/assets/86625413/dda6306e-1b4c-49e1-a44c-cf1602114b81)
-- Some problems this paper works to address, mentioned here (Digital Transformation of Microgrids: A Review of Design,
-Operation, Optimization, and Cybersecurity). 
-
-![image](https://github.com/EthanNorton/Learning/assets/86625413/cc05e56d-7b1e-46bb-a949-955e18acd482)
-- Understanding various microgrid components in depth/ context and physical architecture (Grid-Connected and Seamless Transition Modes
-for Microgrids: An Overview of Control Methods,
-Operation Elements, and General Requirements).
-
+- Feature 1
+- Feature 2
+- Feature 3
 
 ## Installation
 
