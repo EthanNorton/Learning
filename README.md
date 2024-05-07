@@ -15,9 +15,9 @@ This will contain various projects learned in courses and my own interests.
 
 ## About
 
-Optimization will likely be intertwined between project interests, but this branch will be my interpretation of technical topics.
+Optimization will likely be intertwined between project interests, but this branch will be my interpretation of technical topics, and general foundation in optimization tools to apply.
 
-Another area could be spacial optimization and visualizing interconnectedness between grid components. 
+The first area would be spacial optimization and visualizing interconnectedness between grid components. In addition, it would be ensuring there are local and micro grids established in various locations that could minimize reliance on hydrocarbons.
 
 ## Demo
 
