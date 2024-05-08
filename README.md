@@ -34,7 +34,7 @@ Another application would be reducing peaks, finding combinations that result in
 
 ## Demo
 
-The first article read and used to structure off of is (https://ieeexplore.ieee.org/abstract/document/9599719). Will also include an annotated bibliography to 
+The first article read and used to structure off of is (https://ieeexplore.ieee.org/abstract/document/9599719). Will also include an annotated bibliography to provide structure.
 
 
 ## Features
