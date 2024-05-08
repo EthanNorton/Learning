@@ -16,7 +16,7 @@ This will contain various projects learned in courses and my own interests.
 ## About
 This branch is thinking of ai applications relative to intersts/problems I am exploring.
 
-Agents: focuses on applications of agents to solve tasks, and iterate through a dataset for improvmements, and forecast issues/bugs aheads of time.
+Agents: focuses on applications of agents to solve tasks, and iterate through a dataset for improvements, and forecast issues/bugs aheads of time.
 An example would be an agent that could combine a multi-factor analysis to predict peaks in database in advance, and see if there is energy covered to maintain this level, perhaps including a monte-carlo analysis.
 
 Training/ fitting an Autoencoder: A good application of applying an autoencoder would be helping stabilize the energy fluxes, predict anamolies, and minimize future deviations. 
