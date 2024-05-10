@@ -22,11 +22,10 @@ This will contain various projects learned in courses and my own interests.
 
 ## Features
 
-
-
-- Feature 1
-- Feature 2
-- Feature 3
+- Preprocess a dataset (clean, visualize)
+- Feature Engineering
+- Literature review, domain knowledge context
+- Applying an agent to help with this step(?)
 
 ## Installation
 
