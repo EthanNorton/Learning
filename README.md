@@ -1,6 +1,6 @@
 # Projects
 
-This will contain various projects learned in courses and my own interests. 
+This will contain various projects learned in courses and my own interests. As this is the first branch in the learning sector, it will start as more of a foundation for energy, and the other branches may be moved here later. 
 
 ## Table of Contents
 
@@ -15,17 +15,25 @@ This will contain various projects learned in courses and my own interests.
 
 ## About
 
+This will include: sources with an annotated bibliography, my own thoughts, feature engineering, my ideal dataset then if I can find an accessible one, and then bring in various branches off of this one, if it doesn't conflict with main. 
 
 ## Demo
 
 
 
-## Features
+## Features (in this order of operations):
 
-- Preprocess a dataset (clean, visualize)
+https://www.simplilearn.com/tutorials/machine-learning-tutorial/machine-learning-steps
+
+- Literature review, domain knowledge context **commonly ommited, why get data and choose a project if some endgoal is not in mind, this can be a guideline for the rest of the project** 
+- Preprocess a dataset (clean, visualize, data quality)
 - Feature Engineering
-- Literature review, domain knowledge context
-- Applying an agent to help with this step(?)
+- Building a model
+  - Iterating
+  - Robustness checks
+
+- 
+- Applying an agent to help maintain, optimize, and other ways to expand once better understanding how those work. 
 
 ## Installation
 
