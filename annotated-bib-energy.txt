@@ -1,11 +1,18 @@
-Target Variable:
+# Outline 
+
+Target Independent Variable:
 -Grid Reliability more important than energy efficiency(not 100% yet)
   -Discuss why reliable over energy efficiency, pros and cons  
-      -discuss up to a certain point i.e. perhaps eventually the margin benefit of reliability will not be worth efficiency tradeoffs, etc.
+      -Discuss up to a certain point i.e. perhaps eventually the margin benefit of reliability will not be worth efficiency tradeoffs, etc.
+
+Dependent Variables:
+-MG Generation Options 
+
 
 Current Sources Reading through:
 -https://ieeexplore.ieee.org/abstract/document/9599719/references#references
 -https://www.sciencedirect.com/science/article/abs/pii/S0360544219301616
+-https://www.sciencedirect.com/science/article/pii/S2211467X23000779
 
 Relevant Datasets:
 -
