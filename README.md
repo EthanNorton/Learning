@@ -32,6 +32,7 @@ Guideline: https://www.simplilearn.com/tutorials/machine-learning-tutorial/machi
   - Iterating
   - Robustness checks
 - Optimization, Parameter Tuning, Model Evaluation
+- Implementations, Policy Analysis 
 - Applying an agent to help maintain, optimize, and other ways to expand once better understanding how those work. 
 
 ## Installation
