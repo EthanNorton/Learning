@@ -13,9 +13,10 @@ Current Sources Reading through:
 -https://ieeexplore.ieee.org/abstract/document/9599719/references#references
 -https://www.sciencedirect.com/science/article/abs/pii/S0360544219301616
 -https://www.sciencedirect.com/science/article/pii/S2211467X23000779
+-https://www.sciencedirect.com/science/article/pii/S0306261923000119
 
 Relevant Datasets:
 -
 
-Companies that align with this type of work currently:
+Companies that align with this type of work:
 -https://rpower1.com/
