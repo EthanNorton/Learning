@@ -7,7 +7,11 @@ Target Independent Variable:
 
 Dependent Variables:
 -MG Generation Options 
-
+-Energy Storage System Features 
+-Evaluation of Interconnectedness 
+-Disaster Recovery Method 
+-Ability to handle weather variability
+-Incorporation of Base to Peakload Analysis variable 
 
 Current Sources Reading through:
 -https://ieeexplore.ieee.org/abstract/document/9599719/references#references
@@ -20,7 +24,7 @@ Related Videos:
 
 
 Relevant Datasets:
--
+- (?)
 
 Companies that align with this type of work:
 -https://rpower1.com/
