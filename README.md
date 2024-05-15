@@ -15,7 +15,8 @@ This will contain various projects learned in courses and my own interests. Each
 
 ## About
 The 'energy-projects' branch is built around my main interest, more deeply understanding the energy environment.
-1. First project is regarding database management from energy perspective. 
+1. First project is regarding grid reliability and monitoring that, and stabilizing microgrids in connection. 
+2. Something compute related
 
 ## Demo
 
@@ -26,5 +27,5 @@ The 'energy-projects' branch is built around my main interest, more deeply under
 - energy-projects consists of introductory energy analysis.
 
 ## Installation
-Refer to the installation file to see libraries utilized.
+Refer to the requirements.txt to see libraries utilized.
 
