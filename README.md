@@ -34,8 +34,10 @@ Guideline: https://www.simplilearn.com/tutorials/machine-learning-tutorial/machi
 - Optimization, Parameter Tuning, Model Evaluation
   - Propogation
   - Regularization
-- Implementations, Policy Analysis 
-- Applying an agent to help maintain, optimize, and other ways to expand once better understanding how those work. 
+- Implementations, Policy Analysis
 
+- Applying an agent to help maintain, optimize, and other ways to expand once better understanding how those work. 
+  - Demand Charge Reductions, for example, DERs
+  - Net Zero Management - control energy storage
 ## Installation
 
