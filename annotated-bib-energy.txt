@@ -6,12 +6,14 @@ Target Independent Variable:
       -Discuss up to a certain point i.e. perhaps eventually the margin benefit of reliability will not be worth efficiency tradeoffs, etc.
 
 Dependent Variables:
--MG Generation Options 
+-MG Generation Options, grid vs generator power  
 -Energy Storage System Features 
 -Evaluation of Interconnectedness 
 -Disaster Recovery Method 
 -Ability to handle weather variability
 -Incorporation of Base to Peakload Analysis variable 
+-Amount of Backup energy/accessibility to a microgrid 
+-Transformers(?) 
 
 Current Sources Reading through:
 -https://ieeexplore.ieee.org/abstract/document/9599719/references#references
