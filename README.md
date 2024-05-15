@@ -25,13 +25,15 @@ This will include: sources with an annotated bibliography, my own thoughts, feat
 
 Guideline: https://www.simplilearn.com/tutorials/machine-learning-tutorial/machine-learning-steps
 
-- Literature review, domain knowledge context **commonly ommited, why get data and choose a project if some endgoal is not in mind, this can be a guideline for the rest of the project** 
+- Literature review, domain knowledge context **commonly omitted, why get data and choose a project if some endgoal is not in mind, this can be a guideline for the rest of the project** 
 - Preprocess a dataset (clean, visualize, data quality)
 - Feature Engineering
 - Building a model
   - Iterating
   - Robustness checks
 - Optimization, Parameter Tuning, Model Evaluation
+  - Propogation
+  - Regularization
 - Implementations, Policy Analysis 
 - Applying an agent to help maintain, optimize, and other ways to expand once better understanding how those work. 
 
