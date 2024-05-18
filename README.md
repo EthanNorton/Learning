@@ -30,7 +30,7 @@ First step is understanding how to train a neural network. Working through under
 
 - Training a neural network
 - Minimizing loss 
-- Feature 3
+- Autoencoder
 
 ## Installation
 
