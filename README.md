@@ -50,5 +50,5 @@ The first article read and used to structure off of is (https://ieeexplore.ieee.
 1. Refer to in the requirements in requirements.txt
 2. Have preprocessed data that follows these steps https://www.kdnuggets.com/2023/08/7-steps-mastering-data-cleaning-preprocessing-techniques.html **highly recommend reading through and constructing an annotated bibliography to have domain knowledge for feature engineering/blend literature and intuition** 
 3. Brief interview of Monte Carlo Analysis https://pbpython.com/monte-carlo.html, or in general, a study of optimization topic. 
-  a) Here is a more applied one to the problem (https://www.sciencedirect.com/science/article/abs/pii/S0360544219301616)
+   A.  Here is a more applied one to the problem (https://www.sciencedirect.com/science/article/abs/pii/S0360544219301616)
 
