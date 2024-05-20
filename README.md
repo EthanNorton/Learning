@@ -23,7 +23,7 @@ Training/ fitting an Autoencoder: A good application of applying an autoencoder 
 ## Demo
 
 First step is understanding how to train a neural network. Working through understanding this channel:
--https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ **Neural Network Introduction**
+- https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ **Neural Network Introduction**
 
 
 ## Features
