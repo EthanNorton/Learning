@@ -43,7 +43,7 @@ The first article read and used to structure off of is (https://ieeexplore.ieee.
 - Peak Reduction, Baseload Stability 
 - Hydrocarbon minimization
 - Grid Reliability
-  -Incorporating microgrid
+  - Incorporating microgrid
 
 ## Installation
 
