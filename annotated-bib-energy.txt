@@ -9,6 +9,7 @@ Dependent Variables:
 -MG Generation Options, grid vs generator power  
 -Energy Storage System Features 
 -Power System Frequency 
+-Controller System Impact(?)
 -Cybersecurity in relation to distributed or centralized grid (!)
 -Maintance frequency and optimization (!)
   -Could relate/balance out reliability and tune these to find reliability equilibrium in respect to efficiency, perhaps interactive variable here. 
