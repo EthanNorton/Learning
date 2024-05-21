@@ -10,7 +10,8 @@ Dependent Variables:
 -Energy Storage System Features 
 -Evaluation of Interconnectedness 
 -Power System Frequency 
--Maintance frequency and optimization 
+-Cybersecurity in relation to distributed or centralized grid (!)
+-Maintance frequency and optimization (!)
   -Could relate/balance out reliability and tune these to find reliability equilibrium in respect to efficiency, perhaps interactive variable here. 
 -Disaster Recovery Method 
 -Ability to handle weather variability
