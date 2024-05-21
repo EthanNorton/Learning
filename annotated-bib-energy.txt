@@ -8,13 +8,14 @@ Target Independent Variable:
 Dependent Variables:
 -MG Generation Options, grid vs generator power  
 -Energy Storage System Features 
--Evaluation of Interconnectedness 
 -Power System Frequency 
 -Cybersecurity in relation to distributed or centralized grid (!)
 -Maintance frequency and optimization (!)
   -Could relate/balance out reliability and tune these to find reliability equilibrium in respect to efficiency, perhaps interactive variable here. 
 -Disaster Recovery Method 
 -Ability to handle weather variability
+-Minimization of redundancy
+  -Evaluation of Interconnectedness 
 -Incorporation of Base to Peakload Analysis variable 
 -Amount of Backup energy/accessibility to a microgrid 
 -Transformers(?) 
