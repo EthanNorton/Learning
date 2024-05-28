@@ -32,6 +32,9 @@ Current Sources Reading through:
 Related Videos:
 - https://www.youtube.com/watch?v=SDanJ7J3XZI
 
+Areas to look deeper into: 
+- Digital Twin
+
 
 Relevant Datasets:
 - (?)
