@@ -28,6 +28,7 @@ Current Sources Reading through:
 - https://www.sciencedirect.com/science/article/pii/S0306261923000119
 - https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9888093
 - https://ieeexplore.ieee.org/abstract/document/8488168
+- https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9154459
 
 Related Videos:
 - https://www.youtube.com/watch?v=SDanJ7J3XZI
