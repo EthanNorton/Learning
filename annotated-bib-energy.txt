@@ -36,6 +36,7 @@ Related Videos:
 Areas to look deeper into: 
 - Digital Twin
 - Figuring out how a neural net can optimize parameter choices/fits on larger datasets
+- Cloud storage/usage relationship
 
 
 Relevant Datasets:
