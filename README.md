@@ -39,5 +39,10 @@ Guideline: https://www.simplilearn.com/tutorials/machine-learning-tutorial/machi
 - Applying an agent to help maintain, optimize, and other ways to expand once better understanding how those work. 
   - Demand Charge Reductions, for example, DERs
   - Net Zero Management - control energy storage
+## Contributing 
+![image](https://github.com/EthanNorton/Learning/assets/86625413/dda6306e-1b4c-49e1-a44c-cf1602114b81)
+Some problems this paper works to address, mentioned here (Digital Transformation of Microgrids: A Review of Design,
+Operation, Optimization, and Cybersecurity). 
+
 ## Installation
 
