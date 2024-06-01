@@ -8,9 +8,8 @@ This will contain various projects learned in courses and my own interests. As t
 - [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+- [Usage](#usage)
 - [Contact](#contact)
 
 ## About
@@ -45,7 +44,7 @@ Guideline: https://www.simplilearn.com/tutorials/machine-learning-tutorial/machi
 Operation, Optimization, and Cybersecurity). 
 
 ![image](https://github.com/EthanNorton/Learning/assets/86625413/cc05e56d-7b1e-46bb-a949-955e18acd482)
-- Understanding various microgrid components in depth/ context (Grid-Connected and Seamless Transition Modes
+- Understanding various microgrid components in depth/ context and physical architecture (Grid-Connected and Seamless Transition Modes
 for Microgrids: An Overview of Control Methods,
 Operation Elements, and General Requirements).
 
