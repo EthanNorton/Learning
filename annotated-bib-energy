@@ -6,7 +6,8 @@ Target Independent Variable:
       -Discuss up to a certain point i.e. perhaps eventually the margin benefit of reliability will not be worth efficiency tradeoffs, etc.
 
 Dependent Variables:
--MG Generation Options, grid vs generator power  
+-MG Generation Options, grid vs generator power
+  -Microgrid Island Mode benefits
 -Energy Storage System Features 
 -Power System Frequency 
 -Controller System Impact(?)
