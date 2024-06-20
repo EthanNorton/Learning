@@ -67,6 +67,7 @@ This section includes projects that involve edge computing technologies and appl
 - IoT device management
 - Edge AI applications
 - Distributed computing
+- **This project will be focused on equitable compute and distributing that** 
 
 ## Installation
 
