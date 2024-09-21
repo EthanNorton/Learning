@@ -19,6 +19,9 @@ Learn how to develop stateless cloud functions using functional programming para
 ### Relevant Courses:
 - **MSDS 434: Data Science and Cloud Computing** - Covers cloud architecture and services like AWS Lambda, which is key for developing and deploying stateless functions.
 
+### Additional learnings: 
+- 
+
 ---
 
 ## 2. Developing Functional Microservices
