@@ -67,11 +67,22 @@ This section includes projects that involve edge computing technologies and appl
 - IoT device management
 - Edge AI applications
 - Distributed computing
-- **This project will be focused on equitable compute and distributing that** 
+- **This project will be focused on equitable compute and distributing that**
+
+
+### Automation
+
+This section includes projects and an approach that enhances other learning pipelines. Projects may include:
+- Building AI-Driven Automation Pipelines
+- Self-Healing Pipelines
+- Multi-Cloud CI/CD Pipelines
+- Automation of Compliance Testing
+- Optimizing code layout 
+- Event-Driven CI/CD Pipelines
 
 ## Installation
 
-(Instructions for setting up the projects and dependencies)
+This repo is more conceptual, likely won't be much code, that can be stored in a code repo later. 
 
 ## Contributing
 
