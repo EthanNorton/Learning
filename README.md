@@ -11,6 +11,7 @@ This repository contains various projects learned in courses and my own interest
   - [Microgrid](#microgrid)
   - [Social Algorithms](#social-algorithms)
   - [Edge Computing](#edge-computing)
+  - [Automation](#automation)
 - [Installation](#installation)
 - [Contributing](#contributing)
 - [Usage](#usage)
@@ -22,7 +23,7 @@ This section will include: sources with an annotated bibliography, my own though
 
 ## Demo
 
-(Demo content goes here)
+
 
 ## Features (in this order of operations):
 
