@@ -48,7 +48,7 @@ Implement federated learning using functional programming principles for secure 
 - **Use Cloud Platforms**: Deploy this simulation on cloud-based machine learning platforms like **AWS Sagemaker** or **Google Cloud ML**.
 
 ### Relevant Courses:
-- **MSDS 460: Artificial Intelligence and Simulation** - This course can help you dive deeper into building AI models, including decentralized systems like federated learning.
+- **MSDS 454**
 
 ---
 
@@ -78,8 +78,7 @@ Enhance the security of federated learning by using functional programming's str
 - **Use Encryption in Cloud**: Leverage **AWS Key Management Service (KMS)** or **Google Cloud KMS** to manage encryption and data privacy.
 
 ### Relevant Courses:
-- **MSDS 435: Machine Learning and Security** - Dive into how machine learning models can incorporate privacy and security, and how FP can play a role in secure computations.
-
+- **MSDS 485**
 ---
 
 ## Potential Projects for the Future
@@ -103,4 +102,4 @@ Build a CI/CD pipeline that automates the deployment and testing of cloud-based 
 
 ## Conclusion
 
-This project provides an integrated approach to combining **Functional Programming**, **Cloud Computing**, and **Federated Learning**. By following the steps outlined above, you'll gain hands-on experience in these critical areas and understand how they work together. The future projects will help solidify your knowledge and enable you to build scalable, secure, and efficient distributed systems.
+This project provides an integrated approach to combining **Functional Programming**, **Cloud Computing**, and **Federated Learning**. 
