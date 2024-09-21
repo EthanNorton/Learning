@@ -14,7 +14,7 @@ Learn how to develop stateless cloud functions using functional programming para
 ### Key Steps:
 - **Deploy Stateless Cloud Functions**: Start by building and deploying simple stateless functions in **AWS Lambda** or **Google Cloud Functions**.
   - https://redis.io/glossary/stateful-vs-stateless-architectures/ first start to evaluate this step. 
-  - 
+  - https://fingent.com/blog/functional-programming-or-microservices-what-suits-your-business-app-development/ - blends together this into next step, FP. 
 - **Functional Programming Principles**: Implement core FP principles like immutability and pure functions in your cloud functions to make them reliable and scalable.
 - **Ensure Idempotency**: Cloud functions should produce the same result regardless of how many times they're executed.
 
