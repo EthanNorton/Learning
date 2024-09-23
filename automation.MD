@@ -101,3 +101,10 @@ Build an event-driven pipeline that triggers deployments and tests based on spec
 ## Conclusion
 
 The automation of cloud-based pipelines using functional programming principles provides a robust framework for creating scalable, secure, and efficient systems. By leveraging serverless architectures, automated testing, and security best practices, this approach ensures that applications can be deployed quickly and reliably across different environments. Future projects can expand on these concepts, integrating AI, multi-cloud strategies, and event-driven architectures.
+
+Suggested Path:
+Solidify cloud skills by working on AWS, GCP, or Azure.
+Learn about CI/CD pipelines (e.g., Jenkins, GitLab) and how they integrate with testing and deployments.
+Learn monitoring tools (Prometheus, Grafana) and use time series knowledge to track system metrics.
+Explore containerization (Docker, Kubernetes) as it plays a large role in cloud-native DevOps workflows.
+Learn Infrastructure as Code (IaC) tools (Terraform, CloudFormation) for automating cloud resources.
