@@ -127,3 +127,12 @@ This learning plan is designed to help start as a **QA Analyst**, gradually move
 ### **Conclusion**
 
 This learning plan provides a gradual, deep learning path that transitions from **QA fundamentals** to **advanced automation**, and ultimately into **stochastic processes** and **intelligent systems**. Each phase is extended to give ample time to build and apply knowledge in real-world scenarios, while developing skill sets for future roles in machine learning, AI, or systems optimization.
+
+Here are some additional steps:
+**Study Focus**:
+Prioritize Python and SQL: Solidify data manipulation and querying skills. This will be done in the Leetcode video. 
+Cloud Platforms & ETL Tools: Dive into AWS (S3, Redshift) or Azure, and build small data pipelines using tools like Apache Airflow or SSIS.
+   - **This will be covered is MSDS 434**
+Big Data Tools: Learn Spark and Kafka, focusing on integrating them into data pipelines.
+Data Modeling: Practice schema design, indexing, and normalization with Redshift or Snowflake.
+Projects: May plug in to kaggle or study there if enough expertise is built.
