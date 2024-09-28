@@ -8,3 +8,5 @@ Watching videos, getting a general idea in relation to the courses below to see 
 - https://online.stanford.edu/courses/cs330-deep-multi-task-and-meta-learning ** another depth course **
 
 - https://online.stanford.edu/programs/artificial-intelligence-professional-program
+
+-[Studying into of how stochastic processes is related to ML](https://heartbeat.comet.ml/stochastic-process-and-its-applications-in-machine-learning-1d4d4e9638ec)
