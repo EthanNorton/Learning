@@ -84,6 +84,9 @@ Enhance the security of federated learning by using functional programming's str
 
 ### Relevant Courses:
 - **MSDS 485**
+  - In this course, we are exploring differences between ways to balance privacy, efficiency, incentives, and other areas..
+    - Connected this to federated learning, as we discussed topics related to the Attention Economy. 
+      - [This is a relative depth article that enabled me to gain a deeper understanding](https://www.sciencedirect.com/science/article/pii/S1877050922005816?via%3Dihub) 
 ---
 
 ## Potential Projects for the Future
