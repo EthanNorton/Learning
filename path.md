@@ -130,16 +130,18 @@ This learning plan provides a gradual, deep learning path that transitions from 
 
 Here are some additional steps:
 **Study Focus**:
-Prioritize Python and SQL: Solidify data manipulation and querying skills. This will be done in the Leetcode video. 
-Cloud Platforms & ETL Tools: Dive into AWS (S3, Redshift) or Azure, and build small data pipelines using tools like Apache Airflow or SSIS.
+- Prioritize Python and SQL: Solidify data manipulation and querying skills. This will be done in the Leetcode video. 
+- Cloud Platforms & ETL Tools: Dive into AWS (S3, Redshift) or Azure, and build small data pipelines using tools like Apache Airflow or SSIS.
    - **This will be covered is MSDS 434**
-Big Data Tools: Learn Spark and Kafka, focusing on integrating them into data pipelines.
-Data Modeling: Practice schema design, indexing, and normalization with Redshift or Snowflake.
-Projects: May plug in to kaggle or study there if enough expertise is built.
+- Big Data Tools: Learn Spark and Kafka, focusing on integrating them into data pipelines.
+- Data Modeling: Practice schema design, indexing, and normalization with Redshift or Snowflake.
+- Projects: May plug in to kaggle or study there if enough expertise is built.
 
 **Other areas to focus and improve**:
-Data Structures: Strengthen knowledge in more advanced structures like heaps, tries, and balanced trees (e.g., AVL, Red-Black).
-Algorithms: Focus on sorting, searching, graph algorithms (e.g., Dijkstra's, Kruskal’s), and dynamic programming.
-Operating Systems: Understanding threading, concurrency, and memory management can be helpful.
-Networking: Concepts like protocols (TCP/IP), sockets, and RESTful APIs.
-System Design: Grasping high-level architecture, scalability, and distributed systems design (like load balancing, caching, and database sharding) is crucial for backend and data engineering roles.
+- Data Structures: Strengthen knowledge in more advanced structures like heaps, tries, and balanced trees (e.g., AVL, Red-Black).
+- Algorithms: Focus on sorting, searching, graph algorithms (e.g., Dijkstra's, Kruskal’s), and dynamic programming.
+- Operating Systems: Understanding threading, concurrency, and memory management can be helpful.
+- Networking: Concepts like protocols (TCP/IP), sockets, and RESTful APIs.
+- System Design: Grasping high-level architecture, scalability, and distributed systems design (like load balancing, caching, and database sharding) is crucial for backend and data engineering roles.
+- ![image](https://github.com/user-attachments/assets/3d1dfcae-8e15-400f-a5d2-59928cdc7cdd)
+- Here's a helpful image 
