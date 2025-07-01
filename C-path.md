@@ -1,6 +1,34 @@
-# 📘 CS107 Preparation Plan: LeetCode + Systems-Level C
+# 📘 CS107 Preparation Plan: Computer Organization & Systems
 
-This guide is designed to help prepare for **Stanford’s CS107 (Computer Organization and Systems)** using a combination of **C-based LeetCode practice** and **hands-on systems programming**.
+This guide is designed to help prepare for **Stanford's CS107 (Computer Organization and Systems)** using a combination of **C programming** and **systems-level understanding**.
+
+## 🎯 Official Course Goals (Stanford CS107)
+
+### Mastery Goals
+- Writing C programs with complex use of memory and pointers
+- Building an accurate model of the address space of C programs
+- Understanding compile/runtime behavior of C programs
+
+### Competency Goals
+- Translating C to/from assembly
+- Writing programs that respect computer arithmetic limitations
+- Identifying bottlenecks and improving runtime performance
+- Working effectively in Unix development environment
+
+### Exposure Goals
+- Basic computer architecture understanding
+- Compiler and disassembler fundamentals
+- Assembly semantics and stack layout
+
+## 📚 Required Resources
+
+### Primary Textbook
+- Bryant & O'Hallaron. "Computer Systems: A Programmer's Perspective" (3rd Edition)
+
+### Recommended Resources
+- "The C Programming Language" by Kernighan & Ritchie (K&R)
+- Nick Parlante's Essential C reader
+- CS107 Course Reader: https://web.stanford.edu/~cgregg/cgi-bin/107-reader
 
 ---
 
@@ -30,14 +58,14 @@ This guide is designed to help prepare for **Stanford’s CS107 (Computer Organi
 
 ---
 
-## 🛠️ Ideal Study Blend
+## 🛠️ Development Environment Setup
 
-| Practice Type | Focus | %
-|---------------|-------|----|
-| **LeetCode (in C)** | Pointers, strings, recursion, arrays | 70% |
-| **Hands-on C Projects** | Memory management, compilation, debugging | 30% |
-
----
+### Required Tools
+- Unix-based environment (Linux/Mac) or SSH access to Stanford's myth machines
+- GCC compiler
+- GDB debugger
+- Valgrind memory checker
+- Make build system
 
 ## 🧩 Handpicked LeetCode Problems for CS107 Themes
 
@@ -76,46 +104,57 @@ This guide is designed to help prepare for **Stanford’s CS107 (Computer Organi
 - [Power of Two](https://leetcode.com/problems/power-of-two/)
 - [Hamming Distance](https://leetcode.com/problems/hamming-distance/)
 
----
+## 🧠 Projects Aligned with CS107 Goals
 
-## 🧠 Projects to Supplement LeetCode
-- 🔧 **Implement your own malloc & free (basic allocator)**
-- 📂 **Build a mini shell** (`fork`, `exec`, buffers)
-- 📚 **Create a C string library** (`strlen`, `strcpy`, `strcmp`)
-- 📝 **Text file parser** (count word frequency, use `fopen/fread`)
-- 📊 **Stack/queue/linked list from scratch** (using `malloc`)
+### Memory Management
+- Implement your own malloc & free (basic allocator)
+- Memory leak detection tools
+- Address space visualizer
 
----
+### Systems Programming
+- Build a mini shell (`fork`, `exec`, buffers)
+- File I/O operations
+- Process management
 
-## 📚 Recommended C Programming Resources
+### Data Structures in C
+- Create a C string library (`strlen`, `strcpy`, `strcmp`)
+- Implement basic data structures without STL
+- Memory-efficient data structure design
 
-### 📘 Books
-- **[The C Programming Language (K&R)](https://archive.org/details/The_C_Programming_Language_2nd_Edition)** – Classic, terse but complete.
-- **C Programming: A Modern Approach (K.N. King)** – Great for beginners, with detailed explanations.
-- **21st Century C (O'Reilly)** – More modern C usage.
+### Assembly & Architecture
+- Simple assembly programs
+- Stack frame visualization
+- Calling convention examples
 
-### 📺 Interactive Courses
-- [Harvard CS50: Intro to Computer Science](https://cs50.harvard.edu/x/)
-- [Learn-C.org (Free Interactive)](https://www.learn-c.org/)
-- [Coursera Accelerated C++ Fundamentals](https://www.coursera.org/learn/cs-fundamentals-1/) – Good C++ transition after CS107
+## 📚 Weekly Study Plan
 
-### 🛠 Tools
-- **gcc** – Compile with `gcc -Wall -g`
-- **valgrind** – Detect memory leaks
-- **gdb** – Debug segfaults step-by-step
-- **makefiles** – Build multi-file C programs
+1. **Week 1-2: C Fundamentals**
+   - C syntax and basic programs
+   - Memory model introduction
+   - Pointers and arrays
 
----
+2. **Week 3-4: Memory Management**
+   - Stack vs Heap
+   - malloc/free
+   - Memory debugging
+
+3. **Week 5-6: Systems Programming**
+   - File operations
+   - Process management
+   - Unix environment
+
+4. **Week 7-8: Architecture**
+   - Assembly basics
+   - Stack frames
+   - Calling conventions
 
 ## 🔍 Final Advice
 
-> “CS107 teaches you to think like the machine. You don’t just write code—you understand what the code is doing at the instruction and memory level.”
+> "CS107 teaches you to think like the machine. You don't just write code—you understand what the code is doing at the instruction and memory level."
 
-- Use LeetCode to master *implementation*
-- Use `gdb`, `valgrind`, and projects to master *systems fluency*
-- Read error messages deeply. Chase bugs. Understand the *why*, not just the *what*
+- Focus on understanding the machine level
+- Practice with debugging tools (gdb, valgrind)
+- Build strong foundations in C before moving to higher-level concepts
 
----
-
-📁 **Want to go deeper?** Clone [Stanford’s CS107 repo](https://github.com/tyleransom/cs107) or [official course site](https://web.stanford.edu/class/cs107/) and try the labs in advance.
+📁 **Want to go deeper?** Clone [Stanford's CS107 repo](https://github.com/tyleransom/cs107) or [official course site](https://web.stanford.edu/class/cs107/) and try the labs in advance.
 
