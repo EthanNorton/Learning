@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     heapalloc_ex1
+relocations:     []
+...
