@@ -73,11 +73,13 @@ Across all projects, I will prioritize engineering rigor.
 ## Month-by-Month Breakdown
 
 ### Month 1 — Probability & Simulation
-- Implement probabilistic simulations tied to coursework
+- Implement probabilistic simulations tied to LLM evaluation data
 - Emphasize uncertainty, variance, and interpretation
+- Use a CMU public dataset, e.g., CMU LTI's Realer Toxicity Prompts (RTP-2.0): https://www.lti.cs.cmu.edu/research/research-articles/realer-toxicity-prompts.html
+- Simulate sampling variance, bootstrap confidence intervals, and metric stability
 
 **Output:**  
-✔ Simulation repo + explanatory notes
+✔ Simulation repo + explanatory notes tied to RTP-2.0 (or another CMU dataset)
 
 ---
 
